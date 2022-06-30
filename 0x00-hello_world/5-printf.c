@@ -13,8 +13,7 @@
 int main(void)
 
 {
-          puts("\"programming is like buiilding a multiliingual puzzle");
-          return (0);
+            printf("with proper grammar, but the outcome is a piece of art,\n");
+	    return (0);
 
 }
-
