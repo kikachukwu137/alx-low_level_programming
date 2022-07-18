@@ -1,0 +1,1 @@
+how work on C
